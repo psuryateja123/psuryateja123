@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <code><a href="https://www.travis-ci.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></a></code>
 <br>
 <br>
-💬 Ask me about anything, I'll be happy to help!** <br>
-💬 My inbox is always open, Contact me**
+💬 Ask me about anything, I'll be happy to help! <br>
+💬 My inbox is always open, Contact me
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/suryateja-pulakhandam/" target="_blank">
