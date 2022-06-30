@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-** ✨ Tech stacks currently using and used in past ** <br>
 <br>
-*** ✨ Languages *** <br>
+✨ Tech stacks currently using and used in past <br>
+<br>
+✨ Languages <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <br>
-*** ✨ Tools *** <br>
+<br>
+✨ Tools <br>
+<br>
 <code><a href="https://www.atlassian.com/software/bamboo" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-ar21.svg"></a></code>
 <code><a href="https://www.mercurial-scm.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
@@ -35,8 +37,8 @@ Here are some ideas to get you started:
 <code><a href="https://www.travis-ci.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></a></code>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+💬 Ask me about anything, I'll be happy to help!** <br>
+💬 My inbox is always open, Contact me**
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/suryateja-pulakhandam/" target="_blank">
